@@ -42,4 +42,5 @@ For full API documentation and guides on PouchDB, see [PouchDB.com](http://pouch
 
 ## TODO;
 - Add typescript
+- Check Web Compatibility 
 - More todos....
